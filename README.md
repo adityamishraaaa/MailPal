@@ -16,3 +16,9 @@ pip install networkx
 ```bash
 python model.py
 ```
+
+## Result
+![](images/environment.png)
+
+## Result
+![](images/result.png)
