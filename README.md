@@ -9,7 +9,7 @@ Use the following command to install necessary libraries. Execute the following 
 pip install networkx
 ```
 
-# Reproduce the Code
+## Reproduce the Code
 
 - To run the model use the following command:
 
